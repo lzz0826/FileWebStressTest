@@ -2,8 +2,6 @@
 import http.client
 import mimetypes
 import json
-
-
 from login import login
 from codecs import encode
 

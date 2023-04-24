@@ -1,13 +1,12 @@
 import json
 import time
-
 import sys
-
-sys.path.append('/Users/sai/PycharmProjects/pythonProject/MyTest/testURL')
-
 from login import login
 from uploadFile import uploadFile
 from versionAdd import versionAdd
+
+sys.path.append('/Users/sai/PycharmProjects/pythonProject/MyTest/testURL')
+
 
 if __name__ == '__main__':
     login = login()

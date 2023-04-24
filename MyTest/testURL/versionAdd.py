@@ -1,9 +1,6 @@
 
-
 import http.client
 import json
-
-
 from login import login
 from uploadFile import uploadFile
 
