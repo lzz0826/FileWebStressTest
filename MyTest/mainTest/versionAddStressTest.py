@@ -3,7 +3,7 @@ import time
 
 import sys
 
-sys.path.append('/Users/sai/PycharmProjects/pythonProject/venv/MyTest/testURL')
+sys.path.append('/Users/sai/PycharmProjects/pythonProject/MyTest/testURL')
 
 from login import login
 from uploadFile import uploadFile
